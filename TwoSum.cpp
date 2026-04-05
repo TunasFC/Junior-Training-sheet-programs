@@ -1,6 +1,4 @@
-#include <iostream>
-#include <iterator>
-#include <vector>
+#include <bits/stdc++.h>
 using namespace std;
 int main(){
     vector<int> vector = {2, 7, 11, 15};
