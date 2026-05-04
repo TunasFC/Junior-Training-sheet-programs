@@ -16,6 +16,10 @@ int main(){
 	cin>>temp;
 	groups[temp]++;
     }
+
+    //This is one of my worst implementations
+    //It works, has unnesesary conditions and it can be confusing to understand
+    //It just suk azz
     
     int numTaxi = 0;
     numTaxi+=groups[4];
