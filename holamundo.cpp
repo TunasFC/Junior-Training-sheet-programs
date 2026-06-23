@@ -17,7 +17,7 @@ int main(){
 	    }
 	}
 	for(int i = 0; i < 1; ++i){
-	    cout<<"Hola"<<"\n ";
+	    cout<<"Hola"<<"\n";
 	}
     }
 
