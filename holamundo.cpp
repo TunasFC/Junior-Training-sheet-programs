@@ -12,7 +12,7 @@ int main(){
 	if(false){
 	    cout<<"Parser de if anidado"<<"\n";
 	    while (false) {
-		int b = 22;
+		int b = 2;
 	    
 	    }
 	}
@@ -20,7 +20,6 @@ int main(){
 	    cout<<"Hola"<<"\n";
 	}
     }
-
 
     return 0;
 }
